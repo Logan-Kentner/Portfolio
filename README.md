@@ -1,3 +1,2 @@
 # Interesting-Things
-Interesting things
-Going to look at some interesting datasets and try to draw some interesting conclusions from them by making some nice graphs. 
+Analyzing interesting Data Sets to practice and showcase Data Cleaning, manipulation, EDA, and modeling skills in Python(Pandas) and R. 
