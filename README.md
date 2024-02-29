@@ -13,7 +13,7 @@ For this project, my partner and I found a large dataset detailing transactions 
 ![PlotHistory](NewHistory.png)
 
 [Maryland Traffic Violations Data Analysis](Data-Science-Project-MarylandTroublemakers.md)
-This is a personal project where I wanted to try an analysis of a large and raw dataset, I found this dataset of Traffic Violations in Montgomery County, MD on a government website. The dataset had over 1.8 million rows and contained many missing values, user input categories, and unnecessary columns. The majority of the time on this project was spent correcting those issues, by recoding Car Makes and removing missing variables and bad columns. The variables were almost all categorical so I mostly stuck to doing visualizations and analyzing trends and relationships from there. 
+This is a personal project where I wanted to try an analysis of a large and raw dataset using Python(Pandas, NuMpy), I found this dataset of Traffic Violations in Montgomery County, MD on a government website. The dataset had over 1.8 million rows and contained many missing values, user input categories, and unnecessary columns. The majority of the time on this project was spent correcting those issues, by recoding Car Makes and removing missing variables and bad columns. The variables were almost all categorical so I mostly stuck to doing visualizations and analyzing trends and relationships from there. 
 
 ![Graph 1](output_21_1.png)
 
