@@ -1,26 +1,26 @@
 <html>
 <head>
-
     <title>PEACE United Nations SDG Revisited 2025</title>
-
-    <script type="text/javascript"
-	    src="https://public.tableau.com/javascripts/api/tableau-2.min.js"></script>
-    <script type="text/javascript"></script>
-
+    <script type="text/javascript" src="https://public.tableau.com/javascripts/api/tableau-2.min.js"></script>
 </head>
-
 <body>
 
-  <h1>SDG</h1>
+  <h1>Peace SDG Dashboard</h1>
 
-    <button id = "exportPDF">Generate PDF</button>
-    <button id = "exportImage">Generate Image</button>
+  <!-- Launch button -->
+  <button id="launchViz">Launch Dashboard</button>
 
+  <!-- Export buttons -->
+  <div style="margin-top: 20px;">
+    <button id="exportPDF">Generate PDF</button>
+    <button id="exportImage">Generate Image</button>
+  </div>
 
-    <div id="vizContainer"></div>
+  <!-- Tableau Viz container -->
+  <div id="vizContainer" style="margin-top: 20px;"></div>
 
-    <script src="./app.js"></script>
+  <!-- External JS -->
+  <script src="./app.js"></script>
 
 </body>
-
 </html>
