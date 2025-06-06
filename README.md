@@ -6,7 +6,7 @@ Hello, I am Logan Kentner, a Junior Actuarial Science Major and Data Science min
 -R
 
 ## Projects
-[PEACE United Nations SDG Revisited 2025](index.html)
+[PEACE United Nations SDG Revisited 2025]
 
 
 
