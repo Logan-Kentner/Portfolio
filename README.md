@@ -6,8 +6,12 @@ Hello, I am Logan Kentner, a Junior Actuarial Science Major and Data Science min
 -R
 
 ## Projects
+[PEACE United Nations SDG Revisited 2025](index.html)
+
+
+
 [DSC 325: Intro to Data Science Final Project](FINAL_PROJECT_CODE.md) 
-For this project, my partner and I found a large dataset detailing transactions on a Venmo-like app. We performed Data Cleaning since the data was so unprocessed, and then EDA to visualize trends and possible relations. We decided to see if we could produce a model that would be able to predict the binary classification of IsFraud, based on numeric predictors that worked best in the EDA like OriginalBalance and TransferAmount. For the model, we opted to utilize an Artificial Neural Network(ANN) so we wouldn't have to conform to assumptions like with Regression. 
+For this project, my partner and I found a large dataset detailing transactions on a Venmo-like app. We performed Data Cleaning since the data was so unprocessed, and then EDA to visualize trends and possible relations. We decided to see if we could produce a model that would be able to predict the binary classification of IsFraud, based on numeric predictors that worked best in the EDA, like OriginalBalance and TransferAmount. For the model, we opted to utilize an Artificial Neural Network(ANN) so we wouldn't have to conform to assumptions like with Regression. 
 ![ANN](NEWcompile.png)
 
 ![PlotHistory](NewHistory.png)
