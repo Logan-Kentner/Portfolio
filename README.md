@@ -8,7 +8,7 @@ Hello, I am Logan Kentner, a Graduate from Saint Joseph's University, with an Ac
 -Tableau, Power BI
 
 ## Projects
-[PEACE United Nations SDG Revisited 2025](https://logankentner.github.io/logan-SDG/index.html)
+[PEACE United Nations SDG Revisited 2025](https://public.tableau.com/app/profile/logan.kentner/viz/PEACEUNSDGRevisited2025/PEACESDG2025)
 
 
 
