@@ -24,11 +24,10 @@ function initViz() {
 }
 
 // run the initViz function when the page loads
-document.addEventListener("DOMContentLoaded", initViz);
-
-const exportPDF = document.getElementById('exportPDF');
-const exportImage = document.getElementById('exportImage');
-
+launchVizLink.addEventListener("click", function (e) {
+    e.preventDefault(); // prevent default hyperlink behavior
+    initViz();
+});
 
 //click on the pdf button to generate pdf of dashboard
 function generatePDF() {
