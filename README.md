@@ -9,7 +9,7 @@ Hello, I am Logan Kentner, a Graduate from Saint Joseph's University, with an Ac
 
 ## Projects
 [PEACE United Nations SDG Revisited 2025](https://public.tableau.com/app/profile/logan.kentner/viz/PEACEUNSDGRevisited2025/PEACESDG2025)
-
+As an avid follower of history, I am very interested in current world affairs, and in the past few years, there has been a feeling of growing instability and violence. I wanted to tell the story of the changing world orders and degrading peace through the lens of a goal set by the UN in 2015. Despite it being set only 10 years ago, 2015 feels like a distinct period, where there was more optimism in Humanity's ability to solve its problems by means of cooperation. To tell this story, I used the Armed Conflict Location and Event Data (ACLED) 's over 1 million row dataset in Tableau to create geoplots of armed conflicts, by year and type, and which nations are hotspots. 
 
 
 [DSC 325: Intro to Data Science Final Project](FINAL_PROJECT_CODE.md) 
